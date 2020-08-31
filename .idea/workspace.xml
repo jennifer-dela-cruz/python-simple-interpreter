@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54617c4a-4145-4155-a539-587baf05eea8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVTOv9Ht3GkuX4pJLbTLfgvw0R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="simple-interpreter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="part9.pas" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jh-delacruz-03.1.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="simple-interpreter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jh-delacruz-03.py" />
+      <option name="PARAMETERS" value="test.pass" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jh-delacruz-03.1.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54617c4a-4145-4155-a539-587baf05eea8" name="Default Changelist" comment="" />
+      <created>1575440734008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575440734008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575792732794">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="206" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1575792732794" />
+    <state x="183" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1575457460201" />
+    <state x="183" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1575517997141" />
+    <state x="436" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575765635464">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="436" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1575765635464" />
+    <state x="436" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1575517856972" />
+    <state x="506" y="149" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1575456108064">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="506" y="149" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.832@0.23.1440.832" timestamp="1575456108064" />
+    <state x="541" y="356" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1575939998464">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="541" y="356" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.23.1440.830@0.23.1440.830" timestamp="1575939998464" />
+    <state x="541" y="340" width="346" height="511" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1575940013321">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="541" y="340" width="346" height="511" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.23.1440.830@0.23.1440.830" timestamp="1575940013321" />
+    <state x="959" y="337" width="367" height="338" key="#xdebugger.evaluate" timestamp="1576256723845">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="959" y="337" width="367" height="338" key="#xdebugger.evaluate/0.23.1440.831@0.23.1440.831" timestamp="1576256723845" />
+    <state x="864" y="282" key="#xdebugger.evaluate/0.23.1440.832@0.23.1440.832" timestamp="1575458089282" />
+    <state x="864" y="282" key="#xdebugger.evaluate/0.23.1440.833@0.23.1440.833" timestamp="1575507242686" />
+    <state width="512" height="466" key="DebuggerActiveHint" timestamp="1575520064241">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="512" height="466" key="DebuggerActiveHint/0.23.1440.834@0.23.1440.834" timestamp="1575520064241" />
+    <state width="1407" height="218" key="GridCell.Tab.0.bottom" timestamp="1576289441967">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1576289441967" />
+    <state width="1407" height="184" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1575967178691" />
+    <state width="1407" height="266" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1575547489809" />
+    <state width="1407" height="218" key="GridCell.Tab.0.center" timestamp="1576289441966">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1576289441966" />
+    <state width="1407" height="184" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1575967178690" />
+    <state width="1407" height="266" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1575547489808" />
+    <state width="1407" height="218" key="GridCell.Tab.0.left" timestamp="1576289441966">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1576289441966" />
+    <state width="1407" height="184" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1575967178690" />
+    <state width="1407" height="266" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1575547489807" />
+    <state width="1407" height="218" key="GridCell.Tab.0.right" timestamp="1576289441967">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1576289441967" />
+    <state width="1407" height="184" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1575967178691" />
+    <state width="1407" height="266" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1575547489808" />
+    <state width="1407" height="218" key="GridCell.Tab.1.bottom" timestamp="1576289441969">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1576289441969" />
+    <state width="1407" height="184" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1575967180033" />
+    <state width="1407" height="266" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1575547489812" />
+    <state width="1407" height="218" key="GridCell.Tab.1.center" timestamp="1576289441968">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1576289441968" />
+    <state width="1407" height="184" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1575967180033" />
+    <state width="1407" height="266" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1575547489810" />
+    <state width="1407" height="218" key="GridCell.Tab.1.left" timestamp="1576289441967">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1576289441967" />
+    <state width="1407" height="184" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1575967180032" />
+    <state width="1407" height="266" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1575547489810" />
+    <state width="1407" height="218" key="GridCell.Tab.1.right" timestamp="1576289441968">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="218" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1576289441968" />
+    <state width="1407" height="184" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1575967180033" />
+    <state width="1407" height="266" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1575547489811" />
+    <state x="300" y="23" key="SettingsEditor" timestamp="1575457756600">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="300" y="23" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1575457756600" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1576452439362">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1575939980677" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1576452439362" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1575851018486" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1575631491296" />
+    <state x="296" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576024478165">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="296" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.831@0.23.1440.831" timestamp="1576024478165" />
+    <state x="269" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575947403127">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="269" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.831@0.23.1440.831" timestamp="1575947403127" />
+    <state x="379" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1576061559405">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="379" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1576061559405" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc1.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc1.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc5.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc5.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc5.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>488</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc5.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>491</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>905</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>600</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>899</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>920</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>384</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>415</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>418</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>440</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>909</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>347</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>477</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>548</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>851</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>856</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>673</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>790</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>810</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>707</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>785</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-03.py</url>
+          <line>542</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

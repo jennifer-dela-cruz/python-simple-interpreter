@@ -1,0 +1,4 @@
+CREATE
+DSTR stringmo WITH "Enter an integer: "
+GIVEME!! stringmo
+RUPTURE

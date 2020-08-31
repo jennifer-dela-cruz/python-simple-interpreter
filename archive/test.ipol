@@ -1,0 +1,98 @@
+test03.ipol
+GIVEYOU!! MINUS 2 2
+GIVEYOU!! TIMES 1 5
+GIVEYOU!! DIVBY 1 1
+GIVEYOU!! MODU 5 4
+GIVEYOU!! RAISE 2 16
+GIVEYOU!! ROOT 16 2
+GIVEYOU!! MEAN 1 2 3 4 5
+GIVEYOU!! DIST 1 2 AND 3 4
+
+
+0
+5
+1
+1
+65536
+1
+3
+2
+
+RAISE 2 16
+In [6]: 2 ** (1//16)
+Out[6]: 1
+
+GIVEYOU!! DIST 1 2 AND 3 4
+In [10]: int(math.sqrt(((1-3)** 2)+((2-4)**2)))
+Out[10]: 2
+
+GIVEYOU!! MEAN 1 2 3 4 5
+In [11]: sum((1,2,3,4,5))
+Out[11]: 15
+In [12]: len((1,2,3,4,5))
+Out[12]: 5
+In [14]: 15//5
+Out[14]: 3
+
+test04.ipol
+DINT m
+STORE 2 IN m
+
+GIVEYOU! [ROOT RAISE 2 2 2 = ]
+GIVEYOU!! ROOT RAISE m m m
+
+GIVEYOU! [MEAN 1 2 3 4 5 6 = ]
+GIVEYOU!! MEAN 1 2 3 4 5 6
+
+ROOT RAISE 2 2 2 = 1
+MEAN 1 2 3 4 5 6 = 3
+
+GIVEYOU! DIST TIMES 6 5 MINUS 5 2 AND PLUS 1 2 DIVBY 6 3
+
+
+#DINT var1
+#GIVEME? var1
+#DSTR var2
+#GIVEME? var2
+
+#STORE 8 IN
+#DSTR # test WITH [hello]
+#DSTR test WITH [hello] # hello
+#hello
+#DINT test
+#MINUS 9 1
+
+GIVEYOU!! [Enter year of birth: ]
+DINT birthyear
+GIVEME? birthyear
+GIVEYOU!! birthyear
+
+#Negative scenarios
+#DINT
+#DINT var WITH
+#DINT var5 WITH [hello]
+
+DSTR hello
+DINT var1 WITH -3
+GIVEYOU! var1
+DINT var2 WITH PLUS +1 -1
+GIVEYOU! var2
+
+
+class ErrorCode(Enum):
+    UNEXPECTED_TOKEN                = 'Unexpected token'
+    ID_NOT_FOUND                    = 'Identifier not found'
+    DUPLICATE_ID                    = 'Duplicate id found'
+    INVALID_CHARACTER               = 'Invalid character'
+    INVALID_SYNTAX                  = 'Syntax is invalid'
+    VARIABLE_IS_NOT_DECLARED        = 'A variable must be declared before use'
+    INVALID_ARITHMETIC_OPERATION    = 'General error for'
+    INVALID_EXPRESSION              = 'Invalid expression'
+    INVALID_DATA_TYPE               = 'Invalid data type'
+    DUPLICATE_VARIABLE_DECLARATION  = 'Variable name has been declared before'
+    INCOMPATIBLE_DATA_TYPE          = 'Incompatible data types'
+    INVALID_DATA_TYPE_INPUT         = 'Data type inputted is invalid'
+    INVALID_EOF                     = 'There is no RUPTURE'
+    FILE_IS_EMPTY                   = 'File is empty'
+    FILE_NOT_FOUND                  = 'File does not exist'
+    INVALID_FILE                    = 'Input file does not end with .ipol'

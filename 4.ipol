@@ -1,0 +1,30 @@
+CREATE
+
+DSTR inputString WITH [I have a pen]
+GIVEYOU!! inputString
+
+GIVEYOU! [Enter year of birth: ]
+DINT birthyear
+GIVEME? birthyear
+DSTR lit WITH [You are ]
+DINT year WITH 2019
+GIVEYOU! lit
+GIVEYOU!! MINUS year birthyear
+DINT x WITH PLUS 100 MINUS 9 7
+DINT y
+STORE 100 IN y
+GIVEYOU! [x = ]
+GIVEYOU!! x
+GIVEYOU! [y = ]
+GIVEYOU!! y
+
+DINT m
+STORE 2 IN m
+
+GIVEYOU! [ROOT RAISE 2 2 2 = ]
+GIVEYOU!! ROOT RAISE m m m
+
+GIVEYOU! [MEAN 1 2 3 4 5 6 = ]
+GIVEYOU!! MEAN 1 2 3 4 5 6
+
+RUPTURE
