@@ -5,6 +5,8 @@ This program evaluates the arithmetic expression and prints the result
 # Running python-simple-interpreter
 python3 jh-delacruz-03.py
 
+When prompted with "Enter INTERPOL file (.ipol):" use the available .ipol files in the repository e.g., 0.ipol. 
+
 # Character Set
 This program uses ASCII characters
 
